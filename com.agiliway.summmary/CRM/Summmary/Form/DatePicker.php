@@ -140,7 +140,7 @@ class CRM_Summmary_Form_DatePicker extends CRM_Core_Form
         'tplParams' => $result,
         'from' => 'CiviCRM',
         'subject' => 'Report details',
-        'messageTemplateID' => '68',
+        'messageTemplateID' => 68,
         'toEmail' => $userMail[1],
       ];
 
